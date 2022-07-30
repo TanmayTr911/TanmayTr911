@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN developer and Competitive Coder from Indore,India</h3>
 
 
-<img width="60%" border-radius="10" src="https://user-images.githubusercontent.com/89075656/181934943-edad7e53-2f57-4d3c-9af8-ad5099d9de26.gif" />
+<img width="80%" border-radius="10" src="https://user-images.githubusercontent.com/89075656/181934943-edad7e53-2f57-4d3c-9af8-ad5099d9de26.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaytr911&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaytr911" /> </p>
 
