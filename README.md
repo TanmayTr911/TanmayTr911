@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **tanmaytr911@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1r_gqLVR9Mfs8Jv6HSIOezoZyK8z_wO02ebmKwxa4mO4/edit](https://docs.google.com/document/d/1r_gqLVR9Mfs8Jv6HSIOezoZyK8z_wO02ebmKwxa4mO4/edit)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1r_gqLVR9Mfs8Jv6HSIOezoZyK8z_wO02ebmKwxa4mO4/edit)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
