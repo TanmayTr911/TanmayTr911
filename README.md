@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tanmay Raghuvanshi,3rd year UnderGrad@ IET-DAVV</h1>
 <h3 align="center">A passionate MERN developer and Competitive Coder from Indore,India</h3>
-![hello](https://user-images.githubusercontent.com/89075656/181934466-e69ef0bd-5709-4fc8-a8c4-3aad692f4190.gif)
+<img src="https://user-images.githubusercontent.com/89075656/181934466-e69ef0bd-5709-4fc8-a8c4-3aad692f4190.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaytr911&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaytr911" /> </p>
